@@ -1,0 +1,57 @@
+Las ecuaciones son expresiones matemáticas que representan una igualdad entre dos cantidades. Una ecuación contiene una o más incógnitas, que son valores desconocidos que deben encontrarse utilizando operaciones matemáticas.
+
+Las ecuaciones son fundamentales porque permiten resolver problemas relacionados con cantidades desconocidas y representar situaciones reales mediante expresiones matemáticas.
+
+Una ecuación siempre posee dos miembros separados por el signo igual.
+
+Por ejemplo:
+
+x más cinco es igual a diez.
+
+En esta ecuación, “x” representa la incógnita.
+
+El objetivo es encontrar el valor de “x”.
+
+Para resolver la ecuación se utilizan operaciones inversas.
+
+Primero se resta cinco en ambos lados.
+
+Entonces:
+
+x es igual a cinco.
+
+Otro ejemplo es:
+
+dos x más cuatro es igual a doce.
+
+Primero se resta cuatro.
+
+Dos x es igual a ocho.
+
+Luego se divide entre dos.
+
+x es igual a cuatro.
+
+Existen diferentes tipos de ecuaciones.
+
+Las ecuaciones lineales poseen incógnitas elevadas solamente a la primera potencia.
+
+Por ejemplo:
+
+tres x menos siete es igual a once.
+
+También existen ecuaciones cuadráticas, donde la incógnita aparece elevada al cuadrado.
+
+Por ejemplo:
+
+x al cuadrado más cinco x más seis es igual a cero.
+
+En muchos casos, las ecuaciones cuadráticas pueden resolverse mediante factorización o utilizando fórmulas matemáticas.
+
+Las ecuaciones pueden aplicarse en diferentes áreas como física, economía, ingeniería y ciencias.
+
+Por ejemplo, pueden utilizarse para calcular velocidades, costos, distancias y cantidades desconocidas.
+
+El estudio de ecuaciones ayuda a desarrollar el razonamiento lógico y la capacidad para resolver problemas matemáticos de manera organizada y precisa.
+
+Las ecuaciones son consideradas una de las bases principales del álgebra y aparecen constantemente en niveles avanzados de matemáticas.

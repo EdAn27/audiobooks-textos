@@ -1,0 +1,61 @@
+Las potencias son operaciones matemáticas utilizadas para representar multiplicaciones repetidas de un mismo número. Gracias a las potencias es posible simplificar cálculos largos y expresar cantidades grandes o pequeñas de manera más sencilla.
+
+Toda potencia posee dos partes principales.
+
+La base.
+
+Y el exponente.
+
+La base es el número que será multiplicado repetidamente.
+
+El exponente indica cuántas veces debe multiplicarse la base por sí misma.
+
+Por ejemplo:
+
+dos elevado al cubo.
+
+Esto significa:
+
+dos por dos por dos.
+
+El resultado es ocho.
+
+Otro ejemplo es:
+
+cinco elevado al cuadrado.
+
+Esto significa:
+
+cinco por cinco.
+
+El resultado es veinticinco.
+
+Las potencias reciben nombres especiales según el exponente.
+
+Cuando el exponente es dos, se dice “al cuadrado”.
+
+Cuando el exponente es tres, se dice “al cubo”.
+
+Existen propiedades importantes de las potencias.
+
+Cuando se multiplican potencias con la misma base, los exponentes se suman.
+
+Cuando se dividen potencias con la misma base, los exponentes se restan.
+
+Cuando una potencia se eleva a otra potencia, los exponentes se multiplican.
+
+También existen exponentes negativos.
+
+Un exponente negativo representa una fracción.
+
+Por ejemplo:
+
+dos elevado a menos uno equivale a un medio.
+
+Otra propiedad importante establece que cualquier número elevado a cero es igual a uno, excepto el cero.
+
+Las potencias son muy utilizadas en álgebra, física, informática y ciencias.
+
+Permiten representar números enormes como distancias espaciales o cantidades microscópicas como el tamaño de los átomos.
+
+Además, las potencias son fundamentales para comprender temas avanzados como raíces, notación científica y funciones exponenciales.

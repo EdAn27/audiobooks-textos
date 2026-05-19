@@ -1,0 +1,53 @@
+La estadística es la rama de las matemáticas encargada de recopilar, organizar, analizar e interpretar datos. Gracias a la estadística es posible comprender información numérica y tomar decisiones basadas en resultados obtenidos mediante estudios y análisis.
+
+Actualmente, la estadística es utilizada en medicina, economía, deportes, tecnología, empresas e investigaciones científicas. Su importancia ha aumentado debido a la gran cantidad de información que existe en el mundo moderno.
+
+La estadística se divide en dos ramas principales.
+
+La estadística descriptiva.
+
+Y la estadística inferencial.
+
+La estadística descriptiva se encarga de organizar y representar información mediante tablas, gráficos y medidas matemáticas.
+
+La estadística inferencial permite sacar conclusiones y realizar predicciones basadas en muestras de datos.
+
+Uno de los conceptos más importantes es la población.
+
+La población representa el conjunto total de elementos que se desea estudiar.
+
+Por ejemplo, todos los estudiantes de un colegio.
+
+La muestra es una parte de la población utilizada para realizar estudios y análisis.
+
+La estadística utiliza diferentes medidas importantes.
+
+Una de ellas es la media aritmética o promedio.
+
+El promedio se obtiene sumando todos los datos y dividiendo entre la cantidad total de valores.
+
+Otra medida importante es la mediana.
+
+La mediana representa el valor central de un conjunto ordenado de datos.
+
+También existe la moda.
+
+La moda es el valor que más se repite dentro de un conjunto de datos.
+
+La estadística utiliza gráficos para representar información visualmente.
+
+Los gráficos de barras permiten comparar cantidades.
+
+Los gráficos circulares representan porcentajes o partes de un total.
+
+Los gráficos lineales muestran cambios a través del tiempo.
+
+La estadística también estudia la probabilidad.
+
+La probabilidad representa la posibilidad de que ocurra un evento.
+
+Por ejemplo, la probabilidad de obtener cara al lanzar una moneda es una entre dos.
+
+Gracias a la estadística es posible analizar encuestas, resultados deportivos, estudios médicos y datos económicos.
+
+El estudio de la estadística ayuda a desarrollar habilidades de análisis, interpretación y razonamiento lógico. Además, permite comprender mejor la información presente en la vida diaria y tomar decisiones basadas en datos reales.

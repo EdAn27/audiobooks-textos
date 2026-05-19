@@ -1,0 +1,67 @@
+La geometría es una rama de las matemáticas encargada de estudiar figuras, formas, tamaños, posiciones y espacios. Desde tiempos antiguos, la geometría fue utilizada por diferentes civilizaciones para medir terrenos, construir edificios, diseñar ciudades y resolver problemas relacionados con distancias y áreas.
+
+La palabra geometría proviene del griego y significa “medición de la tierra”. Uno de los matemáticos más importantes en el desarrollo de la geometría fue Euclides, considerado el padre de la geometría debido a sus importantes aportes y estudios matemáticos.
+
+La geometría estudia figuras planas y cuerpos geométricos.
+
+Las figuras planas poseen solamente largo y ancho.
+
+Por ejemplo:
+
+cuadrados.
+
+triángulos.
+
+rectángulos.
+
+círculos.
+
+Los cuerpos geométricos poseen largo, ancho y altura.
+
+Por ejemplo:
+
+cubos.
+
+cilindros.
+
+pirámides.
+
+esferas.
+
+Uno de los conceptos principales de la geometría es el perímetro.
+
+El perímetro representa la suma de todos los lados de una figura.
+
+Por ejemplo, el perímetro de un cuadrado se obtiene multiplicando el lado por cuatro.
+
+Otro concepto importante es el área.
+
+El área representa la superficie ocupada por una figura.
+
+El área de un rectángulo se obtiene multiplicando base por altura.
+
+El área del triángulo se obtiene multiplicando base por altura y dividiendo entre dos.
+
+En geometría también se estudian los ángulos.
+
+Un ángulo es la abertura formada por dos líneas que se unen en un punto.
+
+Existen diferentes tipos de ángulos.
+
+Los ángulos agudos miden menos de noventa grados.
+
+Los ángulos rectos miden exactamente noventa grados.
+
+Los ángulos obtusos miden más de noventa grados.
+
+Uno de los teoremas más importantes de la geometría es el Teorema de Pitágoras.
+
+Este teorema se aplica en triángulos rectángulos y establece que el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.
+
+La geometría tiene muchas aplicaciones en la vida real.
+
+Es utilizada en arquitectura, ingeniería, diseño gráfico, construcción y astronomía.
+
+Gracias a la geometría es posible diseñar edificios, carreteras, puentes y diferentes estructuras utilizadas diariamente.
+
+El estudio de la geometría ayuda a desarrollar el razonamiento espacial, la lógica y la capacidad de resolver problemas matemáticos relacionados con figuras y medidas.

@@ -1,0 +1,75 @@
+Las fracciones son expresiones matemáticas utilizadas para representar partes de una unidad o de un conjunto. Una fracción indica que una cantidad ha sido dividida en partes iguales y que solamente se está tomando una parte de ella o varias partes. Las fracciones son muy importantes porque aparecen constantemente en la vida diaria, por ejemplo al repartir alimentos, medir ingredientes, calcular distancias o dividir cantidades.
+
+Toda fracción está formada por dos partes principales.
+
+El numerador.
+
+Y el denominador.
+
+El numerador se encuentra en la parte superior de la fracción y representa la cantidad de partes que se toman.
+
+El denominador se encuentra en la parte inferior y representa el número total de partes iguales en las que fue dividida la unidad.
+
+Por ejemplo:
+
+Tres cuartos.
+
+En esta fracción, el número tres es el numerador y el número cuatro es el denominador.
+
+Esto significa que una unidad fue dividida en cuatro partes iguales y se están tomando tres partes.
+
+Existen diferentes tipos de fracciones.
+
+Las fracciones propias tienen un numerador menor que el denominador.
+
+Por ejemplo:
+
+dos quintos.
+
+Las fracciones impropias tienen un numerador mayor que el denominador.
+
+Por ejemplo:
+
+siete medios.
+
+También existen fracciones mixtas, formadas por un número entero y una fracción.
+
+Por ejemplo:
+
+dos enteros y un medio.
+
+Las fracciones equivalentes representan la misma cantidad aunque tengan números diferentes.
+
+Por ejemplo:
+
+un medio es equivalente a dos cuartos.
+
+Esto ocurre porque ambas representan la misma parte de una unidad.
+
+Las fracciones pueden simplificarse.
+
+Simplificar una fracción consiste en dividir el numerador y el denominador entre un mismo número para obtener una expresión más pequeña pero equivalente.
+
+Por ejemplo:
+
+cuatro octavos puede simplificarse a un medio.
+
+Las fracciones también pueden sumarse y restarse.
+
+Cuando las fracciones tienen el mismo denominador, solamente se suman o restan los numeradores.
+
+Por ejemplo:
+
+un cuarto más dos cuartos es igual a tres cuartos.
+
+Cuando las fracciones tienen diferente denominador, primero debe encontrarse un denominador común.
+
+Las fracciones también pueden multiplicarse y dividirse.
+
+Para multiplicar fracciones se multiplican numeradores entre sí y denominadores entre sí.
+
+Para dividir fracciones se multiplica la primera fracción por la inversa de la segunda.
+
+Las fracciones son fundamentales en matemáticas porque ayudan a representar cantidades no enteras y resolver diferentes problemas relacionados con medidas, proporciones y reparticiones.
+
+Además, las fracciones son la base para aprender temas más avanzados como porcentajes, razones y álgebra.
